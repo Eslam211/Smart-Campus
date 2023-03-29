@@ -34,5 +34,7 @@ This file fills the missing values for all the devices using the best approach p
 # 6. Predict_Number_of_People.ipynb
 This file proposes a neural network scheme that uses the resulting parameters from the aforementioned files to predict the number of people inside a room.
 
+# Dataset and Citation
+
 To access the dataset: 
 We kindly ask you to cite our published paper: whenever you use the dataset or the uploaded notebooks.
