@@ -36,5 +36,5 @@ This file proposes a neural network scheme that uses the resulting parameters fr
 
 # Dataset and Citation
 
-To access the dataset: 
+To access the dataset: http://ieee-dataport.org/documents/smart-campus-dataset
 We kindly ask you to cite our published paper: whenever you use the dataset or the uploaded notebooks.
