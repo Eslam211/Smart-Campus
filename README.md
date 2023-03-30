@@ -13,29 +13,36 @@ This repository consists of 7 files as follow that describe the work done on the
 Fig. 2: The proposed people counter model. First, the data imputation and pre-processing phase consists of failures identification and failures handling. Then, the data analysis phase consists of data predictor and people counter.
 
 
+
 # 0. Documentation.ipynb
 This file presents the documentation of the devices. For example: their type, location, data of installement, and other important parameters.
+
 
 # 1. Preliminary_Analysis.ipynb
 This file introduces a simple analysis of the readings of the sensor for the second dataset (the Sensors readings dataset). It introduces the basic analysis of each reading for all the devices over the whole datatset.
 
+
 # 2. Advanced_Analysis.ipynb
 This file presents a detailed analysis for the dataset. The minimum, maximum, and mean analysis are shown for the devices for each parameter. An analysis for individual devices is shown as well.
+
 
 # 3. Detect_Missing_Transmissions.ipynb
 This file detects and identifies the failures in the transmission of the devices in LoRa network between the devices and the gateway, or between the gateway and the server.
 
+
 # 4. Test_Interpolation.ipynb
 This file exploits different techniques to handle the missing values in the dataset reslting from the failures. In addition, it compares between these techniques and claims the best among them.
+
 
 # 5. Fill_Missing_Transmissions.ipynb
 This file fills the missing values for all the devices using the best approach presented in the previous file.
 
+
 # 6. Predict_Number_of_People.ipynb
 This file proposes a neural network scheme that uses the resulting parameters from the aforementioned files to predict the number of people inside a room.
 
-# Dataset and Citation
 
+# Dataset and Citation
 To access the dataset: http://ieee-dataport.org/documents/smart-campus-dataset
 
 We kindly ask you to cite our published paper: whenever you use the dataset or the uploaded notebooks.
