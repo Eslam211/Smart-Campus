@@ -45,4 +45,4 @@ This file proposes a neural network scheme that uses the resulting parameters fr
 # Dataset and Citation
 To access the dataset: http://ieee-dataport.org/documents/smart-campus-dataset
 
-We kindly ask you to cite our published paper: whenever you use the dataset or the uploaded notebooks.
+We kindly ask you to cite our published paper: E. Eldeeb and H. Alves, “Lorawan-enabled smart campus: The dataset and a people counter use case,” 2023. whenever you use the dataset or the uploaded notebooks.
